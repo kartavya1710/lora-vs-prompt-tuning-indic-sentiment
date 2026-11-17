@@ -1,0 +1,10 @@
+{
+ "indicbert2|gu|full": 2e-05,
+ "indicbert2|gu|lora": 0.0003,
+ "indicbert2|gu|prompt": 0.03,
+ "indicbert2|gu|probe": 0.003,
+ "indicbert2|mr|full": 2e-05,
+ "indicbert2|mr|lora": 0.0003,
+ "indicbert2|mr|prompt": 0.03,
+ "indicbert2|mr|probe": 0.003
+}

@@ -1,0 +1,11 @@
+{
+ "model": "ai4bharat/IndicBERTv2-mlm-only",
+ "lang": "gu",
+ "method": "prompt2",
+ "n_train": 500,
+ "seed": 0,
+ "lr": 0.1,
+ "steps": 320,
+ "test_acc": 0.9317,
+ "test_macro_f1": 0.9316
+}
